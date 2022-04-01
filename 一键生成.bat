@@ -1,0 +1,1 @@
+pyinstaller -F -w --uac-admin auto_daka_2.0.py
